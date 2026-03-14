@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋 I'm Abhishek</h2>
+<h2 align="center">Hi 👋 I'm Abhishek Yadav</h2>
 
 <p align="center">
-Linux • Android Kernel • AI Developer
+Linux • Android Kernel • AI Developer from India 🇮🇳
 </p>
 
 <p align="center">
