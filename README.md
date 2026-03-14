@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋 I'm Abhishek</h1>
+
+<p align="center">
+Linux • Android Kernel • AI Developer
+</p>
+
+<p align="center">
+Building AI + Linux Tools 🚀
+</p>
+
+
+
+
 # Hi 👋 I'm Abhishek
 
 Linux & Android Developer from India 🇮🇳
