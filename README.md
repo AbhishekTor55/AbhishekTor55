@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋 I'm Abhishek</h1>
 
 <p align="center">
-Linux • Android Kernel • AI Developer
+Linux • Android Kernel • AI Developer from India 🇮🇳
+ 
 </p>
 
 <p align="center">
 Building AI + Linux Tools 🚀
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Linux+Developer;Android+Kernel+Developer;AI+Automation+Builder)](https://git.io/typing-svg)
 
 
 # Hi 👋 I'm Abhishek
 
-Linux & Android Developer from India 🇮🇳
+
 
 ## 🚀 Projects
 - Local AI System Action Engine
