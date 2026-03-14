@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Abhishek
 
-<!--
-**AbhishekTor55/AbhishekTor55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & Android Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Local AI System Action Engine
+- Android Kernel Development
+- Video Downloader Tools
+- Magisk Modules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Linux
+- Bash
+- Android Kernel
+- Termux
+
+## 🌐 Connect With Me
+YouTube: https://youtube.com/c/TechnicalPrasadTor
+Twitter: https://x.com/Abhishe56369082
+Telegram: https://t.me/linuxroothackers123
