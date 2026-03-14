@@ -16,6 +16,6 @@ Linux & Android Developer from India 🇮🇳
 - Termux
 
 ## 🌐 Connect With Me
-YouTube: https://youtube.com/c/TechnicalPrasadTor
+YouTube: https://youtu.be/9oFgZSURoPc?si=P08OIE7VpGGGIadI
 Twitter: https://x.com/Abhishe56369082
-Telegram: https://t.me/linuxroothackers123
+Telegram: https://t.me/linuxroothackers.in
