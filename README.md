@@ -42,10 +42,9 @@ Linux • Android Kernel • AI Developer from India 🇮🇳
 ## 🐍 Contribution Graph
 
 <p align="center">
-
-![snake gif](https://github.com/AbhishekTor55/AbhishekTor55/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/AbhishekTor55/AbhishekTor55/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 ---
 
