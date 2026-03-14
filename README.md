@@ -76,6 +76,9 @@ Open-source utilities for downloading videos.
 
 <p align="center">
 
+<a href="https://www.instagram.com/abhishek_33_95?igsh=MTM5YXAwYXVvYzNwcQ%3D%3D">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+</a>
 <a href="https://youtube.com/c/TechnicalPrasadTor">
 <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"/>
 </a>
