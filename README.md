@@ -5,64 +5,96 @@ Linux • Android Kernel • AI Developer from India 🇮🇳
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Kernel+Developer;Linux+Developer;AI+Automation+Builder;Building+AI+%2B+Linux+Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=Android+Kernel+Developer;Linux+Developer;AI+Automation+Builder;Building+AI+%2B+Linux+Tools" />
 </p>
 
+---
 
+## 🧑‍💻 About Me
 
-### 🛠 Tech Stack
+- 🔧 Linux & Android Kernel Developer  
+- 🤖 Building **Local AI System Action Engine**  
+- 📱 Custom ROM & Magisk Module Developer  
+- 🛠 Creating automation tools for Linux systems
 
-<p>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode"/>
 </p>
 
-### 📊 GitHub Stats
+---
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekTor55&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTor55&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekTor55&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTor55&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
 
 ![snake gif](https://github.com/AbhishekTor55/AbhishekTor55/blob/output/github-contribution-grid-snake.svg)
 
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### Local AI System Action Engine
+### 🤖 Local AI System Action Engine
 AI system that converts natural language into Linux system commands.
 
-### Charging Bypass Magisk
+### 🔋 Charging Bypass Magisk
 Magisk module to control charging behaviour for gaming devices.
 
-### Android Kernel Development
+### ⚙️ Android Kernel Development
 Custom kernel experiments and optimizations.
+
+### 🎥 Video Downloader Tools
+Open-source utilities for downloading videos.
+
+---
+
+<p align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=AbhishekTor55&color=blue)
 
-### 🌐 Connect With Me
+</p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/c/TechnicalPrasadTor)
-
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/Abhishe56369082)
-
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/linuxroothackers123)
-
-⚡ I build tools that give users control over their systems.
-
-⚡ I build tools that give users control over their systems.
-
-## 🚀 Projects
-- Local AI System Action Engine
-- Android Kernel Development
-- Video Downloader Tools
-- Magisk Modules
-
-## 🛠 Skills
-- Python
-- Linux
-- Bash
-- Android Kernel
-- Termux
+---
 
 ## 🌐 Connect With Me
-YouTube: https://youtu.be/9oFgZSURoPc?si=P08OIE7VpGGGIadI
-Twitter: https://x.com/Abhishe56369082
-Telegram: https://t.me/linuxroothackers.in
+
+<p align="center">
+
+<a href="https://youtube.com/c/TechnicalPrasadTor">
+<img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/Abhishe56369082">
+<img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"/>
+</a>
+
+<a href="https://t.me/linuxroothackers.in">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⚡ I build tools that give users full control over their systems.
+
+</p>
